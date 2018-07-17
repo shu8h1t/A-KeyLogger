@@ -19,3 +19,7 @@ Keystroke logging, often referred to as keylogging or keyboard capturing, is the
 5.) And now check whether its working or not, just start chrome, and all the keystrokes will be saved in text file in important folder.
 
 Have fun, but remember these are the computer programs designed to work on the target computer’s software. Keyloggers are used in IT organizations to troubleshoot technical problems with computers and business networks. Families and business people use keyloggers legally to monitor network usage without their users’ direct knowledge. However, malicious individuals can use keyloggers on public computers to steal passwords or credit card information.
+
+
+ITS ONLY FOR EDUCATION PURPOSE, DON'T MISUSE IT.
+
